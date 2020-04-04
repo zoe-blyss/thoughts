@@ -1,4 +1,16 @@
 html {
   padding-left: 50px;
   padding-right: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2  {
+  font-size: 1.4em;
+}
+p {
+  font-size: 1em;
 }
